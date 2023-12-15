@@ -1,0 +1,15 @@
+D:\OOP\3lab32\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\3lab32\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\OOP\3lab32\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\OOP\3lab32\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\OOP\3lab32\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\OOP\3lab32\BLL\bin\Debug\net6.0\BLL.dll
+D:\OOP\3lab32\BLL\bin\Debug\net6.0\BLL.pdb
+D:\OOP\3lab32\BLL\bin\Debug\net6.0\DAL.dll
+D:\OOP\3lab32\BLL\bin\Debug\net6.0\DAL.pdb
+D:\OOP\3lab32\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\OOP\3lab32\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\OOP\3lab32\BLL\obj\Debug\net6.0\BLL.dll
+D:\OOP\3lab32\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\OOP\3lab32\BLL\obj\Debug\net6.0\BLL.pdb
+D:\OOP\3lab32\BLL\obj\Debug\net6.0\ref\BLL.dll

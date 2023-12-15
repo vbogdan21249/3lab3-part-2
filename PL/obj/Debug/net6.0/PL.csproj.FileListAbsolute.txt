@@ -1,0 +1,17 @@
+D:\OOP\3lab32\PL\bin\Debug\net6.0\PL.deps.json
+D:\OOP\3lab32\PL\bin\Debug\net6.0\PL.dll
+D:\OOP\3lab32\PL\bin\Debug\net6.0\PL.pdb
+D:\OOP\3lab32\PL\bin\Debug\net6.0\BLL.dll
+D:\OOP\3lab32\PL\bin\Debug\net6.0\DAL.dll
+D:\OOP\3lab32\PL\bin\Debug\net6.0\BLL.pdb
+D:\OOP\3lab32\PL\bin\Debug\net6.0\DAL.pdb
+D:\OOP\3lab32\PL\obj\Debug\net6.0\PL.csproj.AssemblyReference.cache
+D:\OOP\3lab32\PL\obj\Debug\net6.0\PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\3lab32\PL\obj\Debug\net6.0\PL.AssemblyInfoInputs.cache
+D:\OOP\3lab32\PL\obj\Debug\net6.0\PL.AssemblyInfo.cs
+D:\OOP\3lab32\PL\obj\Debug\net6.0\PL.csproj.CoreCompileInputs.cache
+D:\OOP\3lab32\PL\obj\Debug\net6.0\PL.csproj.CopyComplete
+D:\OOP\3lab32\PL\obj\Debug\net6.0\PL.dll
+D:\OOP\3lab32\PL\obj\Debug\net6.0\refint\PL.dll
+D:\OOP\3lab32\PL\obj\Debug\net6.0\PL.pdb
+D:\OOP\3lab32\PL\obj\Debug\net6.0\ref\PL.dll
